@@ -6,7 +6,7 @@
 body {
     margin: 0;
     padding: 15px;
-    background: #f3f5f8;
+    background: #889cb9;
     font-family: Arial, sans-serif;
     color: #172033;
 }
@@ -92,7 +92,7 @@ body {
 }
 
 .vazifalar li:hover {
-    background: #fafbfe;
+    background: #3c59b1;
 }
 
 .vazifalar li input {
@@ -135,7 +135,7 @@ body {
 }
 
 .toldiruvchi {
-    width: 25%;
+    width: 0%;
     height: 100%;
     background: #2864ed;
     border-radius: 10px;
